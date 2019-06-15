@@ -3,6 +3,6 @@
   <entry>
     <title><![CDATA[Hello Python]]></title>
     <url>%2F2019%2F06%2F15%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to BlueMonkey’s blog(https://github.com/msr12580)! This is my first blog, mainly about the problems I encountered in learning python, to share with the students like python, let’s make progress together, let the code into life. 下载安装python打开python官网1$ https://www.python.org/ More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <content type="text"><![CDATA[Welcome to BlueMonkey’s blog(https://github.com/msr12580)! This is my first blog, mainly about the problems I encountered in learning python, to share with the students like python, let’s make progress together, let the code into life. Python 环境搭建Python下载Python官网：https://www.python.org/Python文档下载地址：https://www.python.org/doc/ Python安装Window 平台安装 Python:打开浏览器访问https://www.python.org/downloads/windows/ 下载对应的版本 Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
   </entry>
 </search>
